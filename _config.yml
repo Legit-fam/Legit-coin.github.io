@@ -143,7 +143,7 @@ footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-       url: https://x.com/legitmemetoken?t=EIIisnHI3z2wmNNZl2WJ9g&s=32
+       url: "https://x.com/legitmemetoken?t=EIIisnHI3z2wmNNZl2WJ9g&s=32"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url:
