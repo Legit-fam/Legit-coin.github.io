@@ -1,4 +1,5 @@
 ---
 title: "LEGIT"
-excerpt: ""
+excerpt: "LEGIT"
+
 ---
